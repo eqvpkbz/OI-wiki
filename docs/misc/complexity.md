@@ -36,7 +36,7 @@ author: linehk
 
  $f(n)=\omega(g(n))$ ，当且仅当对于任意给定的正数 $c$ ， $\exists n_0$ ，使得 $\forall n \ge n_0,0\le c\cdot g(n)< f(n)$ 。
 
-![](images/order.png)
+![](replace-order.png)
 
 ### 常见性质
 
